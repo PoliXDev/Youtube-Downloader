@@ -21,10 +21,10 @@ YouTube Downloader is a desktop application developed in Python that allows you 
 ## Requirements
 - Python 3.12
 - Required libraries:
-yt-dlp>=2024.3.10
-customtkinter>=5.2.2
-Pillow>=10.2.0
-requests>=2.31.0
+-yt-dlp>=2024.3.10
+-customtkinter>=5.2.2
+-Pillow>=10.2.0
+-requests>=2.31.0
 
 ## Installation
 1. Clone the repository:
