@@ -1,3 +1,9 @@
+
+# Version 1.8 - Updates and Fixes
+
+This version includes error corrections, code updates, and the implementation of **TY-DPL** (Threaded YouTube Downloader Processing Layer) to enhance download efficiency and performance.
+
+
 # YouTube Downloader
 
 ## Description
